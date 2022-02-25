@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there [Saeid](https://www.linkedin.com/in/saeid-parvandeh/)👋
 
-<!--
-**saeid651/saeid651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Postdoctoral Associate with expertise in Machine Learning, Data Scientist, and Bioinformatics at Baylor College of Medicine. I am mostly experience with operational research to apply advanced analytics rigor, machine learning and statistical methods for complex problems with heterogenous large data types in cloud. In addition, I have long history of experience in designing, building, forecasting, and maintaining machine learning models to increase efficiency, accuracy, and utility of internal data processing. I have excellent problem-solving skills to plan critical and strategical solutions for technology, business and operation.
 
-Here are some ideas to get you started:
+## Current Projects (WIP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am working on re-designing and improving consensus features nested cross-validation [cncv](https://academic.oup.com/bioinformatics/article/36/10/3093/5716331) with heterogenous data types for feature selection, model selection, and risk prediction.
+
+- I am developing a multiplex graph that incorporate prior-knowledge and predict the most important nodes in a network of positions in human proteins. 
+
+## Skills and Expertise
+
+**Programming language:** Python ((Pandas, NumPy, Matplotlib, Scikit-learn, Scipy, NLTK, Keras, Tensorflow, PyTorch), R (ggplot2, igraph, glmnet, randomForest, XGBoost, caret, e1071, rpart, devtools, dplyr, Rmarkdown, Shiny), MATLAB, C, C++ (Eigen, Armadilo), SQL
+
+**Machine Learning:** Supervised Learning (Linear Models, Tree-based Models, Distance-based Models, Kernel-based Models, Network-based Models), Unsupervised Learning (Clustering Methods, Dimensionality Reduction Methods, Community Detection Methods, Centrality-based Methods) 
+
+**Deep Learning:** Neural Nets & CNNs (TensorFlow, Keras), Natural Language Processing (NLTK, Vader, Pattern), GAN
+
+**HPC:** SLURM, PBS
+
+**Frameworks & Other:** Git, Anaconda
