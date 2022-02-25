@@ -1,4 +1,4 @@
-### Hi there [Saeid](https://www.linkedin.com/in/saeid-parvandeh/)👋
+### Hi, I'm [Saeid](https://www.linkedin.com/in/saeid-parvandeh/)👋
 
 I am a Postdoctoral Associate with expertise in Machine Learning, Data Scientist, and Bioinformatics at Baylor College of Medicine. I am mostly experience with operational research to apply advanced analytics rigor, machine learning and statistical methods for complex problems with heterogenous large data types in cloud. In addition, I have long history of experience in designing, building, forecasting, and maintaining machine learning models to increase efficiency, accuracy, and utility of internal data processing. I have excellent problem-solving skills to plan critical and strategical solutions for technology, business and operation.
 
