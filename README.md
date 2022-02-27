@@ -6,7 +6,7 @@ I am a Postdoctoral Associate with expertise in Machine Learning, Data Scientist
 
 - I am working on re-designing and improving consensus features nested cross-validation [cncv](https://academic.oup.com/bioinformatics/article/36/10/3093/5716331) with heterogenous data types for feature selection, model selection, and risk prediction.
 
-- I am developing a multiplex graph that incorporate prior-knowledge and predict the most important nodes in a network of positions in human proteins. 
+- I am developing a multiplex network centrality that incorporates prior-knowledge [multiplexCentrality] (https://academic.oup.com/bioinformatics/article/35/13/2329/5210869?login=true) and predict the most important nodes in a network of positions in human proteins. 
 
 ## Skills and Expertise
 
