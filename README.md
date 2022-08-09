@@ -1,4 +1,4 @@
-I am a Postdoctoral Associate with expertise in Machine Learning, Data Science, and Bioinformatics. I am mostly experienced with operational research to apply advanced analytical rigor, machine learning and statistical methods for complex problems with heterogenous large data types. In addition, I have a long history of experience in designing, building, forecasting, deploying, and maintaining machine learning models to increase efficiency, accuracy, and utility of internal data processing. 
+I am a Postdoctoral Associate with expertise in Machine Learning, Data Science, and Bioinformatics. I am mostly experienced with algorithm design to apply advanced analytical rigor, machine learning and statistical methods for complex problems with heterogenous large data types. In addition, I have a long history of experience in designing, building, forecasting, deploying, and maintaining machine learning models to increase efficiency, accuracy, and utility of internal data processing. 
 
 ## Current Projects (WIP)
 
